@@ -3,5 +3,5 @@
 ! yeah you will probably say its not worth it but believe me 
 it only 1.5Mg so what are ya saying huh ? 
 download it and play (and rage quit:)))
-\n
-Source code in the case you wanted : https://github.com/aryan-zargar/GumMan-Code
+
+  Source code in the case you wanted : https://github.com/aryan-zargar/GumMan-Code
